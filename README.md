@@ -77,7 +77,7 @@ VOC_DIR = '/home/alx/dataset-VOC' # Path to the input PascalVOC dataset
 YOLO_DIR = '/home/alx/dataset-YOLO' # Path to where to save the YOLO dataset
 ```
 
-Finaly run the script. How long it takes to run depends on your dataset and your environment.
+Finally run the script. How long it takes to run depends on your dataset and your environment.
 
 ```python
 python pascalVOC2YOLO.py
