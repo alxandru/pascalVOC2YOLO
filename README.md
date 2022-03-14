@@ -26,7 +26,7 @@ The PascalVOC dataset was generated with the [VOTT](https://github.com/microsoft
     ...
 ```
 
-After running the [pascalVOC2YOLO.py](/path/to/pascalVOC2YOLO.py) script the generated YOLO dataset should be:
+After running the [pascalVOC2YOLO.py](https://github.com/alxandru/pascalVOC2YOLO/blob/main/src/pascalVOC2YOLO.py) script the generated YOLO dataset should be:
 
 ```bash
 .
